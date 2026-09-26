@@ -1,0 +1,10 @@
+dev\ashis\discordbots\bot\BotProfile.class
+dev\ashis\discordbots\commands\TemplateCommand.class
+dev\ashis\discordbots\commands\CommandCatalog.class
+dev\ashis\discordbots\bot\BotManager.class
+dev\ashis\discordbots\bot\TemporaryBanManager.class
+dev\ashis\discordbots\discord\BotInteractionListener.class
+dev\ashis\discordbots\commands\Template.class
+dev\ashis\discordbots\discord\BotInteractionListener$1.class
+dev\ashis\discordbots\DiscordBotsPlugin.class
+dev\ashis\discordbots\command\BotCommand.class

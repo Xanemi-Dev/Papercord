@@ -1,0 +1,15 @@
+name: DiscordBots
+version: 1.0.0
+main: dev.ashis.discordbots.DiscordBotsPlugin
+api-version: '1.21.11'
+description: Manage template-based Discord bots from your Paper server.
+authors: [Ashis]
+commands:
+  discordbots:
+    description: Create and manage Discord bot profiles.
+    usage: /discordbots <create|list|templates|commands|select|unselect|start|stop|status>
+    permission: discordbots.manage
+permissions:
+  discordbots.manage:
+    description: Manage Discord bot profiles.
+    default: op
