@@ -1,5 +1,5 @@
-DiscordBots
-DiscordBots is a Paper plugin that runs one or more JDA Discord bot connections inside the Minecraft server process. Bot profiles and their selected slash commands are managed with /discordbots; connection and command activity is written to the Paper server log.
+PaperCords
+Papercords is a Paper plugin that runs one or more JDA Discord bot connections inside the Minecraft server process. Bot profiles and their selected slash commands are managed with /discordbots; connection and command activity is written to the Paper server log.
 
 Requirements
 Paper 1.21.11
